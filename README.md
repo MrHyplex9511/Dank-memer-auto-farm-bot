@@ -19,10 +19,15 @@ Read the title
 
 🆅 1.0
 -Added /beg
+
 -Added /hunt
+
 -Added /dig
+
 -Added /fish
+
 -Added /deposit at the end for money safety
+
 
 
 
