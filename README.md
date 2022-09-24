@@ -3,6 +3,13 @@ Read the title
 
  WORKS WITH THE LATEST UPDATE!
  
+ #How to Install-
+ 
+ 1.Click Dank memer auto farmer V 1
+ 
+ 2
+ 
+ 
 #How to use in 4 steps-
 
 1.Open discord
