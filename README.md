@@ -12,8 +12,10 @@ Read the title
 Click download
 
 
-3.![Its wrong](https://user-images.githubusercontent.com/99345187/192093874-a6be83e4-68e3-4f51-aa36-9ecf5b6a37a5.png)
-Click the three dots and click keep. (it thinks its unsafe)
+3.
+![Its wrong](https://user-images.githubusercontent.com/99345187/192093874-a6be83e4-68e3-4f51-aa36-9ecf5b6a37a5.png)
+
+Click the arrow and click keep. (google thinks its unsafe)
 
 4.You made it!
  
