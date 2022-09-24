@@ -18,13 +18,7 @@ Click download
 Click the arrow and click keep. (google thinks its unsafe)
 
 4.You made it!
-/ 
- /
- /
- /
- /
- \
- /
+                                                                     
 #How to use in 4 steps-
 
 1.Open discord
