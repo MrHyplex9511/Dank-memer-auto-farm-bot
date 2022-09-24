@@ -5,7 +5,7 @@ Read the title
  
  #How to Install-
  
- 1.Click Dank memer auto farmer V 1
+ 1.Click here ---> [https://github.com/MrHyplex9511/Dank-memer-auto-farm-bot/blob/main/Dank%20Memer%20Farmer%20V%201.exe]
  
  2.![image](https://user-images.githubusercontent.com/99345187/192093829-1cb241a9-0fef-4dfc-a8f9-45012d979bb5.png)
 
