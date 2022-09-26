@@ -4,7 +4,8 @@ Read the title
  WORKS WITH THE LATEST UPDATE!
  
  
- Please type any issues in this tab --> ![image](https://user-images.githubusercontent.com/99345187/192324231-843db0b4-409f-4849-99ed-304a94234c3d.png)
+ Please type any issues in this tab -->
+ ![image](https://user-images.githubusercontent.com/99345187/192324231-843db0b4-409f-4849-99ed-304a94234c3d.png)
 
 
  
