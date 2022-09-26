@@ -3,6 +3,13 @@ Read the title
 
  WORKS WITH THE LATEST UPDATE!
  
+ 
+ Please type any issues in this tab --> ![Uploading image.png…]()
+
+ 
+ 
+ 
+ 
  #How to Install-
  
  1.Click here ---> [https://github.com/MrHyplex9511/Dank-memer-auto-farm-bot/blob/main/Dank%20Memer%20Farmer%20V%201.exe]
